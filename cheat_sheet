@@ -1,0 +1,11 @@
+# Gitを使用する宣言
+$ git init
+
+# ステージングにあげる
+$ git add file 
+
+# コミットする
+$ git commit "commitname"
+
+
+
